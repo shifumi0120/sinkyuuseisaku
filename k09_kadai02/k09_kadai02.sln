@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "k09_kadai02", "k09_kadai02\k09_kadai02.vcxproj", "{DC286023-B47D-444D-8766-0274D8D65C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC286023-B47D-444D-8766-0274D8D65C41}.Debug|x64.ActiveCfg = Debug|x64
+		{DC286023-B47D-444D-8766-0274D8D65C41}.Debug|x64.Build.0 = Debug|x64
+		{DC286023-B47D-444D-8766-0274D8D65C41}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC286023-B47D-444D-8766-0274D8D65C41}.Debug|x86.Build.0 = Debug|Win32
+		{DC286023-B47D-444D-8766-0274D8D65C41}.Release|x64.ActiveCfg = Release|x64
+		{DC286023-B47D-444D-8766-0274D8D65C41}.Release|x64.Build.0 = Release|x64
+		{DC286023-B47D-444D-8766-0274D8D65C41}.Release|x86.ActiveCfg = Release|Win32
+		{DC286023-B47D-444D-8766-0274D8D65C41}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CCAC3B9-F593-445C-9BD2-FC5B1EE9C459}
+	EndGlobalSection
+EndGlobal
